@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(214, 239, 251);
+    color: Black;
+    font-family: "Georgia", serif;
+    text-align: center;
+  
+  }
+
+  .center {
+    margin: auto;
+    padding: 30px;
+  }
